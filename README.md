@@ -259,11 +259,3 @@ After each training run, configuration and results are saved:
 - `experiments/logs/<exp_name>/training_log.json` - Training history
 
 
-## 🤝 Contributing
-
-This is a research codebase. For questions or suggestions, please open an issue.
-
-## 📄 License
-
-MIT License - See LICENSE file for details.
-
