@@ -1,6 +1,6 @@
 # Multi-Scale Visual Prompting (MS-VP) for Image Classification
 
-A comprehensive PyTorch research codebase for exploring Multi-Scale Visual Prompting across multiple architectures and datasets.
+Pytorch Code for exploring Multi-Scale Visual Prompting across multiple architectures and datasets submitted to IEEE CAI 2026 Conference.
 
 ## 🎯 Overview
 
