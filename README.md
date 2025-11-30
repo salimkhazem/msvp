@@ -199,19 +199,6 @@ visualize_gradcam(
 )
 ```
 
-## 📈 Expected Results
-
-### MNIST (10 epochs)
-- **Baseline CNN**: ~98-99%
-- **CNN + MS-VP**: ~99%+
-- **ResNet18 + MS-VP**: ~99.5%+
-
-### CIFAR-10 (10 epochs)
-- **Baseline ResNet18**: ~88-90%
-- **ResNet18 + MS-VP**: ~90-92%
-- **ViT-Tiny + MS-VP**: ~85-88%
-
-*Note: Results may vary. For publication, run 3 seeds and report mean ± std.*
 
 ## 🛠 Advanced Usage
 
